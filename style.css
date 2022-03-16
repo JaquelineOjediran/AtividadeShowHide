@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    text-align: center;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+}
+
+div{
+    position: absolute;
+    width: 400px;
+    height: 220px;
+    border: 5px solid;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    top: 200px;
+    left: 555px;
+    z-index: 2;
+    text-align: justify;
+    visibility: hidden; /* ocultar as divs */
+}
+
+div img{
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin: 10px;
+}
+
+#maca{
+    background-color: rgb(128, 206, 236);
+    border-color: rgb(107, 144, 247);
+    color:rgb(5, 6, 80);
+}
+
+#limao{
+    background-color: #0f0;
+    border-color: #27bb22;
+    color:rgb(28, 51, 9);
+}
+
+#laranja{
+    background-color: #ec9e28;
+    border-color: #af0f0f;
+    color:rgb(165, 13, 13);
+}
