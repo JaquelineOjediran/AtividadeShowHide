@@ -1,2 +1,2 @@
-# PrimeiroProjetoPROA
-Repositório para arquivos HTML, CSS e JS usados em aula.
+# AtividadeShowHide
+Respositório dos arquivos da aula conhecendo a função show-hide do JavaScript.
